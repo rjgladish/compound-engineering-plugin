@@ -1,0 +1,22 @@
+{
+  "name": "rekall",
+  "version": "1.0.0",
+  "description": "Durable memory through pre-compaction exports. Syncs conversations to episodic-memory before context compaction occurs.",
+  "author": {
+    "name": "Randy Gullet",
+    "email": "randy@example.com"
+  },
+  "homepage": "https://github.com/compound-engineering/plugins",
+  "repository": "https://github.com/compound-engineering/plugins",
+  "license": "MIT",
+  "keywords": [
+    "memory",
+    "compaction",
+    "episodic-memory",
+    "context-preservation",
+    "session-management"
+  ],
+  "dependencies": {
+    "plugins": ["episodic-memory@superpowers-marketplace"]
+  }
+}

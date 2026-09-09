@@ -11,3 +11,4 @@ __pycache__/
 *.pyc
 
 .compound-engineering/*.local.yaml
+.planning/patterns/
